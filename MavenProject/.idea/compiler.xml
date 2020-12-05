@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mavenson1" />
+        <module name="pojo" />
+        <module name="service8087" />
+        <module name="usersyspojo" />
+        <module name="usersysservice" />
+        <module name="usersysweb" />
+        <module name="web8086" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mavenparent" target="1.5" />
+      <module name="mavenson1" target="1.5" />
+      <module name="pojo" target="1.5" />
+      <module name="resttemplatetest" target="1.5" />
+      <module name="service8087" target="1.5" />
+      <module name="usersyspojo" target="1.5" />
+      <module name="usersysservice" target="1.5" />
+      <module name="usersysweb" target="1.5" />
+      <module name="web8086" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

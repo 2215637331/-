@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavenparent.iml" filepath="$PROJECT_DIR$/mavenparent/mavenparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavenson1/mavenson1.iml" filepath="$PROJECT_DIR$/mavenparent/mavenson1/mavenson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplatetest/pojo/pojo.iml" filepath="$PROJECT_DIR$/resttemplatetest/pojo/pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplatetest/resttemplatetest.iml" filepath="$PROJECT_DIR$/resttemplatetest/resttemplatetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplatetest/service8087/service8087.iml" filepath="$PROJECT_DIR$/resttemplatetest/service8087/service8087.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/usersyspojo/usersyspojo.iml" filepath="$PROJECT_DIR$/mavenparent/usersyspojo/usersyspojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/usersysservice/usersysservice.iml" filepath="$PROJECT_DIR$/mavenparent/usersysservice/usersysservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/usersysweb/usersysweb.iml" filepath="$PROJECT_DIR$/mavenparent/usersysweb/usersysweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resttemplatetest/web8086/web8086.iml" filepath="$PROJECT_DIR$/resttemplatetest/web8086/web8086.iml" />
+    </modules>
+  </component>
+</project>

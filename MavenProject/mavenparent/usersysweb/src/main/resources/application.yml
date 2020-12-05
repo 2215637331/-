@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+
+spring:
+  # Jackson配置
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+  profiles:
+    active: service
